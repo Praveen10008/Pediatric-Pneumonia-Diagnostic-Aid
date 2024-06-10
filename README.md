@@ -1,4 +1,3 @@
-# <p ><img src="Ppda\static\assets\img\lungs.ico" alt="Icon" width="30" height="30"> Pediatric Pnuemonia Diagnostic Aid : Automatic Covid & Pneumonia Detection </p>
 
 **Pediatric Pnuemonia Diagnostic Aid**: Step into the world of cutting-edge technology with our web application. Built upon groundbreaking machine learning research, we've harnessed the power of diverse deep learning classification models. Our application is designed to accurately identify Pneumonia cases from X-ray bringing crucial medical insights to your fingertips.
 
