@@ -48,3 +48,10 @@
 - `JavaScript` - This scripting language was strategically employed to manage some backend events, oversee user interface interactions, and provide dynamic animations within the application framework.
 
 - `HTML` , `CSS` and `jinja2` - were utilized to construct the user interface, offering a visually appealing and intuitive experience for users.
+
+## Examples
+![Alt text](https://github.com/Praveen10008/Pediatric-Pneumonia-Diagnostic-Aid/blob/master/Examples/Picture6.png)
+![Alt text](https://github.com/Praveen10008/Pediatric-Pneumonia-Diagnostic-Aid/blob/master/Examples/Picture7.png)
+![Alt text](https://github.com/Praveen10008/Pediatric-Pneumonia-Diagnostic-Aid/blob/master/Examples/Picture8.png)
+![Alt text](https://github.com/Praveen10008/Pediatric-Pneumonia-Diagnostic-Aid/blob/master/Examples/Picture9.png)
+
